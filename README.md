@@ -48,9 +48,3 @@ The project includes sample `INSERT` statements for:
 3. Explore the tables using `SELECT * FROM tablename`
 
 ---
-
-## 📬 Contact
-
-Feel free to fork this project or raise an issue if you'd like to improve or ask questions!
-
----
